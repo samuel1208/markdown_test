@@ -2,14 +2,11 @@ markdown_test
 =============
 语法
 ------
-* 附近的可
 
-
-
-{{{{{{ blue-modern
+{{{ blue-modern
   alice->bob: Test
   bob->alice: Test response
-}}}}}}
+}}}
 
 
 * 代码块
